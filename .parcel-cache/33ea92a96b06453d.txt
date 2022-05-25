@@ -1,0 +1,11 @@
+10
+23D:\work\dom\src\main.js132979210086689354 0
+16D:\work\dom\dist132979197038510238 1
+15D:\work\dom\src132979186517271323 1
+22D:\work\dom\src\dom.js132979210078222267 0
+38D:\work\dom\dist\index.755bdb92.js.map132979196518718081 0
+34D:\work\dom\dist\index.755bdb92.js132979196518718081 0
+26D:\work\dom\src\index.html132979210069109028 0
+38D:\work\dom\dist\index.de158e3a.js.map132979191624412547 0
+34D:\work\dom\dist\index.de158e3a.js132979191624422529 0
+27D:\work\dom\dist\index.html132979197038490293 0
